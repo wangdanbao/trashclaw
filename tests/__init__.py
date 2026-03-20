@@ -1,0 +1,1 @@
+# TrashClaw test suite
